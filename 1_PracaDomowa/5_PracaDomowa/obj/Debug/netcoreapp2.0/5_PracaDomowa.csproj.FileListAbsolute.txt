@@ -1,0 +1,11 @@
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\bin\Debug\netcoreapp2.0\5_PracaDomowa.deps.json
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\bin\Debug\netcoreapp2.0\5_PracaDomowa.runtimeconfig.json
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\bin\Debug\netcoreapp2.0\5_PracaDomowa.runtimeconfig.dev.json
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\bin\Debug\netcoreapp2.0\5_PracaDomowa.dll
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\bin\Debug\netcoreapp2.0\5_PracaDomowa.pdb
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\obj\Debug\netcoreapp2.0\5_PracaDomowa.csproj.CoreCompileInputs.cache
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\obj\Debug\netcoreapp2.0\5_PracaDomowa.AssemblyInfoInputs.cache
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\obj\Debug\netcoreapp2.0\5_PracaDomowa.AssemblyInfo.cs
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\obj\Debug\netcoreapp2.0\5_PracaDomowa.dll
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\obj\Debug\netcoreapp2.0\5_PracaDomowa.pdb
+C:\Programowanie\PracaDomowa\1_PracaDomowa\5_PracaDomowa\obj\Debug\netcoreapp2.0\5_PracaDomowa.csprojResolveAssemblyReference.cache
